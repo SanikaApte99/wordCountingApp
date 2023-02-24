@@ -1,4 +1,4 @@
-# wordCountingApp
+# Word Counting Application
 `This is the small application to calculate number of words, paragraphs, sentences using Html, CSS and JavaScript.`
 
 ## Functioning
