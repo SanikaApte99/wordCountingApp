@@ -1,6 +1,5 @@
 # Word Counting Application
-`This is the small application to calculate number of words, paragraphs, sentences using Html, CSS and JavaScript. 
-In this application Html, CSS are used for frontend and JavaScript is used for backend and for form validation. `
+`This is the small application to calculate number of words, paragraphs, sentences using Html, CSS and JavaScript. In this application Html, CSS are used for frontend and JavaScript is used for backend and for form validation. `
 
 ## Functioning
 `In this application, form validation is shown for login and signup. If the email address is incorrect or password is less than 8 characters then user will not be allowed into the application. If both the conditions are met then user is redirected to the application.`
